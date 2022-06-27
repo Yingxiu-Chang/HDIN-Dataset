@@ -2,7 +2,7 @@
 This repository contains the data preprocessing code for the original HDIN dataset.
 
 ## Introduction
-Due to limitations that the current public datasets are mostly collected from outdoor environments which lead to the limitations of indoor generalization capabilities, we proposed an HDIN indoor dataset by collecting data only based on the UAV and its onboard sensors with scaling factor labeling methods to overcome the sensor accumulative errors and unidentical label units. This repository contains the code to preprocess the original HDIN dataset for visual-based navigation based on Multi-task supervised learning. 
+Due to limitations that the current public datasets are mostly collected from outdoor environments which lead to the limitations of indoor generalization capabilities, we proposed an HDIN indoor dataset by collecting data only based on the UAV and its onboard sensors with scaling factor labeling methods to overcome the data jitters and unidentical label units. This repository contains the code to preprocess the original HDIN dataset for visual-based navigation based on Multi-task supervised learning. 
 
 ## Running the code
 ### Software requirements
