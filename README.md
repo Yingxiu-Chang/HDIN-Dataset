@@ -40,7 +40,7 @@ Dependencies:
 * h5py 2.10.0
 
 ### Data preparation
-The dataset can be downloaded from here: ```https://hull-repository.worktribe.com/output/4018646```
+The dataset can be downloaded from here: [Dataset](https://hull-repository.worktribe.com/output/4018646)
 
 #### Dataset processing
 Once Udacity dataset is downloaded, extract the contents. After extraction, the original processed structure of the entire dataset should look like this:
